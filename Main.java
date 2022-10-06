@@ -10,7 +10,7 @@ class Main {
     System.out.println("Enter total bill: ");
     double totalBill = scan.nextDouble();
 
-    System.out.println("Enter tip percentage: ");
+    System.out.println("Enter tip percentage as a whole number without the percent sign: ");
     int tipPercent = scan.nextInt();
 
     System.out.println("Number of people: ");
